@@ -1,0 +1,19 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 10%;
+margin: 0px; 
+padding-bottom: 10px;}
+
+.anchor{
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+    width: 200px;
+    margin-top: 15px;
+    font-size: 20px;
+}
